@@ -1,0 +1,65 @@
+.banner {
+    background: url("./img/soft.jpg")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+    height: 100vh;
+  }
+
+  .navbar {
+    background-color: purple;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.rounded {
+    color: #fff;
+    padding: 25px;
+    background-color: purple;
+    height: 150px;
+    width: 150px;
+    border-radius: 50% !important;
+  }
+
+  .btn{
+    background-color: purple;
+    border: none;
+    color: #fff;
+  }
+  
+  .product-img {
+    object-fit: cover;
+  }
+  
+  .team img {
+    width: 250px;
+    border: 10px solid #cccccc;
+  }
+  
+  a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+  }
+  
+  .client img {
+    height: auto;
+    max-height: 50px;
+  }
+  
+  .contact{
+    background: url("./img/soft.jpg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #eee;
+  }
